@@ -1,0 +1,97 @@
+-----------------------------------
+   Microsoft Windows 98 FONTOS fájl 
+        a terméktámogatásról
+            1998 április      
+-----------------------------------
+
+(c) Copyright Microsoft Corporation, 1998
+
+
+Jelen dokumentum a Microsoft Windows 98 dokumentációját 
+egészíti ki a legfrissebb információkkal.
+
+
+Microsoft Technikai Tanácsadás
+
+Az alábbi dokumentum a Microsoft technikai tanácsadásának különbözõ módozatait részletezi.
+Ez a tájékoztató fontos információkkal szolgál azoknak, akik technikai jellegû problémákba
+ütköznek a termék telepítése vagy használata során. 
+A Microsoft számos információs és tanácsadó szolgáltatást nyújt a felhasználóknak, 
+az ingyenes telefonos és olcsó elektronikus szolgáltatásoktól kezdve egészen az éves
+karbantartási megállapodásokig.
+
+Megjegyzés: a Microsoft technikai tanácsadó szolgáltatásainak keretei és feltételei
+elõzetes figyelmeztetés nélkül változhatnak.
+
+
+Információs szolgáltatások
+
+Az Információs szolgáltatások könnyen elérhetõ és naprakész adatokkal rendelkeznek 
+a Microsoft termékekrõl. Jelenleg a következõ Információs szolgáltatások érhetõk el 
+(angol nyelven): 
+
+Internet-szolgáltatások: Az Interneten a következõ fórumok állnak rendelkezésére: 
+Microsoft GYIK (Gyakran Ismételt Kérdések – Frequently Asked Questions), 
+Programkönyvtár (Software Library), Tudásbázis (Knowledge Base), felhasználói hírcsoportok,
+egyéb technikai információk és adatok.
+
+World Wide Web elérése:
+http://www.microsoft.com/support/
+http://www.microsoft.com/hun
+ 
+Microsoft TechNet: Ez az elõfizetéses CD kiadvány elsõdleges forrásként szolgál, 
+ha gyors és átfogó választ szeretne kapni a Microsoft bármely termékére vonatkozó technikai
+kérdésére. További információért és a megrendeléssel kapcsolatos kérdéseivel forduljon 
+a Microsoft Ügyfélszolgálathoz. Microsoft Developer Network Library (MSDN): Ez az 
+elõfizetéses CD kiadvány kitûnõ információforrásként szolgál, illetve hasznos eszközöket 
+kínál azoknaka fejlesztõknek, akik a Microsoft Windows, Windows 95 és Windows NT® 
+rendszerekre fejlesztenek alkalmazásokat, vagy Microsoft fejlesztõeszközökkel dolgoznak. 
+További információért és a megrendeléssel kapcsolatos kérdéseivel forduljon a Microsoft 
+Ügyfélszolgálathoz.
+
+
+Microsoft ForróDrót
+
+A Microsoft termékek regisztrált felhasználói ingyenes telefonos tanácsadásra jogosultak. 
+(Kivételt képeznek a kiszolgáló, illetve BackOffice termékek.) A Microsoft mérnökei mind 
+a technikai, mind a használhatósággal kapcsolatos kérdésekre választ adnak. A szolgáltatás 
+a hét minden munkanapján elérhetõ 9-17 óráig.
+
+Telefon: +36 (1) 2-MSINFO (267-4636)
+Elektronikus levél: msinfo@microsoft.hu
+(az egyértelmû azonosításhoz szükséges a név, a cím és a 
+vevõazonosító szám – ha már létezik – megadása)
+Internet: http://www.microsoft.com/hun/
+
+
+Microsoft Priority Támogatási Szerzõdés
+
+Az Priority Támogatás a kelet-európai régió részére Németországban létesített Microsoft 
+szoftvertámogatási központon keresztül kínál gyors szakmai támogatást. A felhasználók egy 
+egyéves, 35 probléma megoldására vonatkozó, TechNet vagy MSDN elõfizetést is tartalmazó 
+szerzõdés, illetve egy 10 probléma megoldására kiterjedõ szerzõdés közül választhatnak. 
+A Priority szerzõdések különbözõ típusai megfelelõ támogatást kínálnak mind fejlesztõknek,
+mind a BackOffice környezetben dolgozó üzleti felhasználóknak.
+További információért forduljon a Microsoft Ügyfélszolgálathoz.
+
+
+Hivatalos Támogató Központok
+
+A létfontosságú Microsoft alapú rendszerek állandó üzemeltetését biztosítják a Hivatalos 
+Támogató Központok. A Hivatalos Támogató Központok szolgáltatásai kiterjednek a személyi 
+operációs rendszerekre, alkalmazásokra és kiemelten kezelik a BackOffice termékeket. 
+A Microsoft termékeket alkalmazó cégek létfontosságú rendszerei folyamatos 
+(7 nap x 24 órás) támogatási rendszert tudhatnak maguk mögött. A Hivatalos Támogató Központ 
+mérnökei szakszerû támogatást nyújtanak ott is, ahol több gyártó különbözõ rendszerei 
+mûködnek együtt. 
+További információért és a Hivatalos Támogató Központok listájáért forduljon a Microsoft 
+Ügyfélszolgálathoz.
+
+
+Microsoft Premier Támogatási Szerzõdés
+
+Az üzleti rendszerek, kiszolgáló illetve BackOffice termékek támogatásának minden igényét 
+kielégíti a Microsoft Premier Támogatási Szerzõdés. A Premier támogatás keretében a 
+megrendelõ egy technikai kapcsolattartó személyen keresztül proaktív technikai 
+szolgáltatások, és igény szerinti, szakértõi támogatás igénybevételére jogosult.
+További információért forduljon a Microsoft Ügyfélszolgálathoz.

@@ -1,0 +1,6 @@
+[progman.groups]
+IEFolder=Internet Explorer
+
+[IEFolder]
+"NetShow Player", """C:\Progra~1\Microsoft NetShow\Player\nsplayer.exe"""
+

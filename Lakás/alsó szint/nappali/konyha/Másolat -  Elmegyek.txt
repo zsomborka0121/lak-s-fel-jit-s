@@ -1,0 +1,21 @@
+DOS-GYAK
+                           6. feladatsor
+
+1. Ellenîrizd, mi van a memori†ban !
+
+2. M†sold †t a lemezedre az F:\SYSTEM\DOS alkînyvt†rb¢l a FORMAT parancsot !
+
+3* Rejtsd el a lemezeden levî FORMAT parancsot ! NÇzd meg a lemezeden
+   levî valamennyi f†jl attributum†t! Tedd l†that¢v† a FORMAT-ot !
+
+4. M†sold †t az A:-ra az F:\SYSTEM\DOS-b¢l azokat a f†jlokat,
+   amelyek nevÇben (nem a kiterjesztÇsÇsben) van "y" betÅ !
+
+5. Tîrîld le a lemezedrîl a DISKCOPY parancsot, majd †ll°tsd vissza !
+
+6* Melyik paranccsal lehet a m†soland¢ alkînyvt†rban levî alkînyvt†rakat
+   is †tm†solni ? Hogyan ?
+
+7. Milyenrîl milyen lemezre lehet DISKCOPY-zni ?
+
+
